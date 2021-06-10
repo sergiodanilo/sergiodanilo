@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sergiodanilo
 - 👀 I’m interested in software development, microservices, JS frameworks
-- 🌱 I’m currently learning Java Message Service (JMS) and implementations like Kafka 
-- 💞️ I’m looking to collaborate on brazilian covid project
+- 🌱 I’m currently learning about Java Message Service (JMS) and its implementations like Kafka 
 - 📫 How to reach me: sergio.danilo@gmail.com
