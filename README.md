@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sérgio Holanda
 
-- 👀 I’m interested in software development, microservices, JS frameworks
-- 🌱 I’m currently learning about Java Message Service (JMS) and its implementations like Kafka 
+- 💻 I’m interested in software development, microservices, JS frameworks
+- 📓 I’m currently learning about Java Message Service (JMS) and its implementations like Kafka 
 - 📫 How to reach me: sergio.danilo@gmail.com
 
 <div>
